@@ -47,7 +47,7 @@
  [],
  False,
  False,
- 1693308631,
+ 1693558012,
  [('run',
    '/Users/macbook/Minddray_BS_200/venv/lib/python3.11/site-packages/PyInstaller/bootloader/Darwin-64bit/run',
    'EXECUTABLE')])

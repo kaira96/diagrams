@@ -1,0 +1,5 @@
+('/Users/macbook/Minddray_BS_200/step5/build/send_data_to_telegrambot/pyserial-3.5-py3.11.egg',
+ None,
+ {'*.cpython-311-darwin.so', '*.so', 'EGG-INFO', '*.py', '*.pyc', '*.abi3.so'},
+ 'DATA',
+ [])

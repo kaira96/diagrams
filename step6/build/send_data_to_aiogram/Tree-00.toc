@@ -1,0 +1,5 @@
+('/Users/macbook/Minddray_BS_200/step6/build/send_data_to_aiogram/pyserial-3.5-py3.11.egg',
+ None,
+ {'*.cpython-311-darwin.so', '*.py', '*.pyc', '*.abi3.so', 'EGG-INFO', '*.so'},
+ 'DATA',
+ [])

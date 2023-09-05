@@ -1,5 +1,5 @@
 ('/Users/macbook/Minddray_BS_200/step4/build/connect_and_send_data/pyserial-3.5-py3.11.egg',
  None,
- {'*.py', '*.abi3.so', '*.pyc', 'EGG-INFO', '*.so', '*.cpython-311-darwin.so'},
+ {'EGG-INFO', '*.py', '*.cpython-311-darwin.so', '*.so', '*.pyc', '*.abi3.so'},
  'DATA',
  [])
